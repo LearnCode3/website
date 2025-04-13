@@ -7,9 +7,6 @@ This is a basic frontend website built by following a tutorial from the LearnCod
 This project is based on the following YouTube channel:  
 🔗 [LearnCode YouTube Channel](https://www.youtube.com/@learncode3)
 
-## 🌐 Live Preview (Optional)
-
-You can deploy this site on GitHub Pages, Netlify, or Vercel and share the link here.
 
 ## 🛠 Tech Used
 
